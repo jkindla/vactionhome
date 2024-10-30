@@ -79,7 +79,7 @@
  }
  
  .moving-image {
-     background: url('/images/splash4.png') repeat fixed;
+     background: url('images/splash4.png') repeat fixed;
      background-size: cover;
      position: absolute;
      top: 0; 
